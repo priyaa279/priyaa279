@@ -36,7 +36,7 @@ Built a Snowflake analytics platform over 200,000 synthetic support tickets to i
 
 <p align="center">
   <img src="assets/freshman-scheduler.png"
-       alt="Freshman Course Scheduler dashboard showing blocked students by course"
+       alt="Freshman Course Scheduler architecture showing data validation, LLM-generated constraint validation, CP-SAT optimization, and Power BI output"
        width="900">
 </p>
 
