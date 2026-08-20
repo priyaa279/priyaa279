@@ -16,6 +16,12 @@ I care about the full chain behind a metric—where it came from, how it was tra
 
 **Snowflake · SQL · Power BI · Dimensional Modeling · Data Quality**
 
+<p align="center">
+  <img src="assets/support-intelligence.png"
+       alt="Support Ticket Intelligence Power BI dashboard showing operational KPIs and support performance"
+       width="900">
+</p>
+
 Built a Snowflake analytics platform over 200,000 synthetic support tickets to investigate service performance, customer risk, and routing quality. The project combines layered warehouse design, dimensional modeling, SQL-based risk scoring, data-quality checks, and Power BI; a priority-severity audit surfaced a potential 10% routing gap for investigation.
 
 **What it demonstrates:** warehouse design · business-focused SQL · data-quality analysis · honest interpretation
@@ -27,6 +33,12 @@ Built a Snowflake analytics platform over 200,000 synthetic support tickets to i
 ### Automated Freshman Course Scheduling
 
 **Python · Google OR-Tools · CP-SAT Optimization · LLMs · Power BI**
+
+<p align="center">
+  <img src="assets/freshman-scheduler.png"
+       alt="Freshman Course Scheduler dashboard showing blocked students by course"
+       width="900">
+</p>
 
 Built an RIT capstone prototype that schedules 4,155 synthetic students across 634 sections while enforcing institutional scheduling policies. Administrators express policies in plain English, and LLM-generated constraints are validated for syntax, schema, semantics, and security before reaching the CP-SAT optimizer. The reported run scheduled all students with zero time conflicts.
 
@@ -41,6 +53,12 @@ Built an RIT capstone prototype that schedules 4,155 synthetic students across 6
 
 **SQL Server · T-SQL · ETL · Dimensional Modeling · Data Quality**
 
+<p align="center">
+  <img src="assets/sql-warehouse.png"
+       alt="SQL Server data warehouse architecture showing Bronze, Silver, and Gold layers"
+       width="900">
+</p>
+
 Building and extending an end-to-end SQL Server analytics warehouse that integrates CRM and ERP source data through Bronze, Silver, and Gold layers. The project includes stored-procedure-driven loads and transformations, Silver- and Gold-layer quality checks, a business-ready star schema, architecture diagrams, and a data catalog.
 
 **What it demonstrates:** source integration · layered warehouse architecture · ETL · documentation
@@ -52,6 +70,12 @@ Building and extending an end-to-end SQL Server analytics warehouse that integra
 ### Houston Real Estate Analytics
 
 **Python · PostgreSQL · Power BI · Web Scraping**
+
+<p align="center">
+  <img src="assets/real-estate.png"
+       alt="Houston real estate Power BI dashboard comparing housing, rent, crime, and listings"
+       width="900">
+</p>
 
 Integrated Zillow housing and rent data, Houston crime data, and scraped Redfin listings into a PostgreSQL-backed analytics workflow and Power BI dashboard for comparing affordability, rental potential, market trends, and neighborhood-level indicators across Houston ZIP codes.
 
