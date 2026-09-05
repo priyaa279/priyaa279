@@ -12,21 +12,23 @@ I care about the full chain behind a metric—where it came from, how it was tra
 
 ## Featured Work
 
-### Support Ticket Intelligence
+### EduInsight
 
-**Snowflake · SQL · Power BI · Dimensional Modeling · Data Quality**
+**Institutional Analytics · Data Quality · Governance · AI-Assisted Analytics**
 
 <p align="center">
-  <img src="assets/support-intelligence.png"
-       alt="Support Ticket Intelligence Power BI dashboard showing operational KPIs and support performance"
+  <img src="assets/eduinsight-command-center.png"
+       alt="EduInsight institutional intelligence command center"
        width="900">
 </p>
 
-Built a Snowflake analytics platform over 200,000 synthetic support tickets to investigate service performance, customer risk, and routing quality. The project combines layered warehouse design, dimensional modeling, SQL-based risk scoring, data-quality checks, and Power BI; a priority-severity audit surfaced a potential 10% routing gap for investigation.
+Built an institutional intelligence platform that brings enrollment, student outcomes, data quality, IPEDS readiness, scenario planning, and institutional knowledge into one governed analytics environment. The system is designed to give decision-makers useful answers while preserving the lineage, validation, and context behind the numbers.
 
-**What it demonstrates:** warehouse design · business-focused SQL · data-quality analysis · honest interpretation
+EduInsight combines governed source data, lifecycle-based data-quality findings, auditable changes, source-backed institutional metrics, scenario modeling, and a natural-language analytics interface designed to prevent unsupported answers.
 
-[Explore project →](https://github.com/priyaa279/snowflake-support-intelligence)
+**What it demonstrates:** institutional analytics · data governance · data quality · AI-assisted analytics · validation · decision-support system design
+
+[Explore project →](https://github.com/priyaa279/eduinsight)
 
 ---
 
@@ -46,6 +48,24 @@ Built an RIT capstone prototype that schedules 4,155 synthetic students across 6
 **What it demonstrates:** optimization · verified AI integration · validation · end-to-end system design
 
 [Explore project →](https://github.com/priyaa279/freshman-course-scheduler)
+
+---
+
+### Support Ticket Intelligence
+
+**Snowflake · SQL · Power BI · Dimensional Modeling · Data Quality**
+
+<p align="center">
+  <img src="assets/support-intelligence.png"
+       alt="Support Ticket Intelligence Power BI dashboard showing operational KPIs and support performance"
+       width="900">
+</p>
+
+Built a Snowflake analytics platform over 200,000 synthetic support tickets to investigate service performance, customer risk, and routing quality. The project combines layered warehouse design, dimensional modeling, SQL-based risk scoring, data-quality checks, and Power BI; a priority-severity audit surfaced a potential 10% routing gap for investigation.
+
+**What it demonstrates:** warehouse design · business-focused SQL · data-quality analysis · honest interpretation
+
+[Explore project →](https://github.com/priyaa279/snowflake-support-intelligence)
 
 ---
 
