@@ -47,7 +47,7 @@ Built an RIT capstone prototype that schedules 4,155 synthetic students across 6
 **Recognition:** Best Project Runner-Up — RIT CS Graduate Projects 2026  
 **What it demonstrates:** optimization · verified AI integration · validation · end-to-end system design
 
-[Explore project →](https://github.com/priyaa279/freshman-course-scheduler)
+[Explore project →](https://github.com/priyaa279/automated-freshman-scheduler)
 
 ---
 
