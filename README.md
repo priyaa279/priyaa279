@@ -37,7 +37,7 @@ EduInsight combines governed source data, lifecycle-based data-quality findings,
 **Python · Google OR-Tools · CP-SAT Optimization · LLMs · Power BI**
 
 <p align="center">
-  <img src="assets/freshman-scheduler.png"
+  <img src="assets/automated-freshman-scheduler.png"
        alt="Freshman Course Scheduler architecture showing data validation, LLM-generated constraint validation, CP-SAT optimization, and Power BI output"
        width="900">
 </p>
@@ -47,7 +47,7 @@ Built an RIT capstone prototype that schedules 4,155 synthetic students across 6
 **Recognition:** Best Project Runner-Up — RIT CS Graduate Projects 2026  
 **What it demonstrates:** optimization · verified AI integration · validation · end-to-end system design
 
-[Explore project →](https://github.com/priyaa279/automated-freshman-scheduler)
+[Explore project →](https://github.com/priyaa279/freshman-course-scheduler)
 
 ---
 
