@@ -1,6 +1,6 @@
 # Priyaa Gopal Shankar
 
-### Data Analyst · Business Intelligence · Trusted Data Systems
+### Data Analyst · Data Engineering · AI-Enabled Analytics
 
 I build analytics systems that turn complex, multi-source data into trustworthy information for decision-making. My work spans enterprise and higher-education analytics, with hands-on experience in SQL, Power BI, Python, Snowflake, reporting automation, dimensional modeling, and data quality.
 
